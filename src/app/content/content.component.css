@@ -1,0 +1,23 @@
+h2{
+  text-align: left;
+  color: #1c7861;
+}
+p {
+  color: black
+}
+div {
+  color: black;
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+/*  text-align: center;*/
+}
+
+.content {
+
+  background-color: #f2faf8;
+}
+
+* {
+  box-sizing: content-box;
+}
